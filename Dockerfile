@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/elasticsearch:v2.4.1
+FROM gcr.io/google-containers/kibana:v4.6.1
 MAINTAINER keepmoving <getshell@kitty.com>

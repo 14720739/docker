@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/nginx-ingress-controller:0.9.0-beta.12
+FROM gcr.io/google_containers/fluentd-elasticsearch:1.20
 MAINTAINER keepmoving <getshell@kitty.com>

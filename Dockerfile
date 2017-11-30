@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/elasticsearch:latest
+FROM docker.io/elasticsearch
 MAINTAINER keepmoving <getshell@kitty.com>
